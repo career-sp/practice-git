@@ -2,3 +2,5 @@ In this repository i am just taking some notes and practicing git and git-hub co
 <br>
 and trying some of its functionalities.
 1
+
+7 november
